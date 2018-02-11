@@ -1,2 +1,2 @@
 # note
-i want to submit some note when i learn someting new
+i want to submit some notes when i learn someting new
